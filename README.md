@@ -17,7 +17,7 @@ Instead of cloning this repo and opening it on your machine, you can read and wo
 You can open any chapter of the book in Colab by clicking on one of these links: 
 - [Introduction to Jupyter](https://colab.research.google.com/github/prasanth-ntu/fastai-fastbook/blob/master/app_jupyter.ipynb) 
 - [Chapter 1, Intro](https://colab.research.google.com/github/fastai/fastbook/blob/master/01_intro.ipynb) 
-- [Chapter 2, Production](https://colab.research.google.com/github/fastai/fastbook/blob/master/02_production.ipynb) | Cat vs. Dog Classifier Demo - [Hugging Face Spaces](https://huggingface.co/spaces/prasanthntu/dog-vs-cat-classifier/tree/main) | [Mini JS](https://github.com/prasanth-ntu/tinypets.git)
+- [Chapter 2, Production](https://colab.research.google.com/github/fastai/fastbook/blob/master/02_production.ipynb) | Cat vs. Dog Classifier Demo - [Hugging Face Spaces](https://huggingface.co/spaces/prasanthntu/dog-vs-cat-classifier/tree/main) | [Mini JS](https://prasanth-ntu.github.io/tinypets/)
 - [Chapter 3, Ethics](https://colab.research.google.com/github/fastai/fastbook/blob/master/03_ethics.ipynb) 
 - [Chapter 4, MNIST Basics](https://colab.research.google.com/github/fastai/fastbook/blob/master/04_mnist_basics.ipynb) 
 - [Chapter 5, Pet Breeds](https://colab.research.google.com/github/fastai/fastbook/blob/master/05_pet_breeds.ipynb) 
