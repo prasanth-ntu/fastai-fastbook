@@ -1,0 +1,7 @@
+digraph G{ rankdir="LR"
+label="Gradient Descent Process"; labelloc=t; fontsize=20;
+node [color=blue, fontcolor=blue]
+edge [color=blue]
+init->predict->loss->gradient->step->stop
+step->predict[label=repeat, fontcolor=blue]
+; }
